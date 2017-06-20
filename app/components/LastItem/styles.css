@@ -1,0 +1,5 @@
+.item div{
+	display: inline-block;
+	vertical-align: middle;
+	margin-bottom: 2px;
+}
