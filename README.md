@@ -2,3 +2,4 @@
 
 [A React Redux Web App developed as a learning exercise.]
 
+![alt text](https://github.com/GroomedGorilla/Lasts/blob/master/lastsScreenshot.PNG)
